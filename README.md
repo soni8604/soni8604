@@ -7,7 +7,7 @@ code. Experienced with data structures/algorithms and designing optimal solution
 engineering with a focus on full stack development
 - ✉️  You can contact me at santoshckt261@gmail.com
 - 🤝  I'm open to collaborating on Interesting projects
--⚡  When I am not working I usually spend my time in cooking with my mom.
+- ⚡  When I am not working I usually spend my time in cooking with my mom.
 ## Skills
  <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/plasticine/48/null/react.png"/><img src="https://img.icons8.com/fluency/48/null/node-js.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/><img src="https://img.icons8.com/color/48/null/css3.png"/>
  
